@@ -2,6 +2,8 @@
 
 Run **Chocolate Doom** on a MikroTik RB5009 in a container, accessible via KasmVNC (browser) or X11 forwarding with Xephyr.
 
+![RBdoom Screenshot](RBdoom.jpg)
+
 ---
 
 ## 1. Container Setup on the RB5009
@@ -106,7 +108,7 @@ dnf install Xephyr
 
    ```bash
    Xephyr :1 -screen 800x600 &
-   DISPLAY=:1 ssh -Y -R /tmp/pulse.sock:$XDG_RUNTIME_DIR/pulse/native abc@{ipAddress}
+   DISPLAY=:1 ssh -Y -R /tmp/pulse.sock:$XDG_RUNTIME_DIR/pulse/native abc@{containerIp}
    ```
 
    You should now have an 800×600 Xephyr window and an SSH session into the container.
