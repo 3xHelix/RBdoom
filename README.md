@@ -119,3 +119,10 @@ dnf install Xephyr
    cd /tmp/chocolate-doom/build/src
    PULSE_SERVER=unix:/tmp/pulse.sock ./chocolate-doom -iwad {wadFile}
    ```
+
+---
+
+## Acknowledgments
+
+Original inspiration and guidance from the MikroTik forum thread:  
+[Running GUI apps in container](https://forum.mikrotik.com/t/running-gui-apps-in-container/180211)
