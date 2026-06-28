@@ -122,6 +122,19 @@ dnf install Xephyr
 
 ---
 
+## Other Games Tested
+
+The same container setup has been successfully used to play:
+
+- **Quake** (tyr-quake)
+- **Descent** (d1x-rebirth)
+- **Super Mario 64** (ARM64 recomp)
+- **Unreal Tournament** (469e ARM64 patch)
+- **eDuke3d** (Duke Nukem 3D)
+- **Diablo 1** (devilutionX) — currently building/testing
+
+---
+
 ## Acknowledgments
 
 Original inspiration and guidance from the MikroTik forum thread:  
