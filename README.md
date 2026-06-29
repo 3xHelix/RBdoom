@@ -128,12 +128,12 @@ The following games have been tested and work on the same container setup:
 
 | Game | Engine |
 |---|---|
-| Descent | d1x-rebirth |
-| Diablo 1 | devilutionX |
-| Duke Nukem 3D | eDuke3d |
-| Quake | tyr-quake |
-| Super Mario 64 | ARM64 recomp |
-| Unreal Tournament | 469e ARM64 patch |
+| Descent | [dxx-rebirth](https://github.com/dxx-rebirth/dxx-rebirth) |
+| Diablo 1 | [devilutionX](https://github.com/diasurgical/devilutionx) |
+| Duke Nukem 3D | [eDuke32](https://www.eduke32.com/) |
+| Quake | [tyrquake](https://github.com/mikrosk/tyrquake) |
+| Super Mario 64 | [sm64ex](https://github.com/sm64pc/sm64ex) |
+| Unreal Tournament | [469e ARM64 patch](https://github.com/OldUnreal/UnrealTournamentPatches/releases) |
 
 ---
 
