@@ -131,7 +131,7 @@ The same container setup has been successfully used to play:
 - **Super Mario 64** (ARM64 recomp)
 - **Unreal Tournament** (469e ARM64 patch)
 - **eDuke3d** (Duke Nukem 3D)
-- **Diablo 1** (devilutionX) — currently building/testing
+- **Diablo 1** (devilutionX) — working
 
 ---
 
