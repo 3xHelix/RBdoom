@@ -124,14 +124,16 @@ dnf install Xephyr
 
 ## Other Games Tested
 
-The same container setup has been successfully used to play:
+The following games have been tested and work on the same container setup:
 
-- **Quake** (tyr-quake)
-- **Descent** (d1x-rebirth)
-- **Super Mario 64** (ARM64 recomp)
-- **Unreal Tournament** (469e ARM64 patch)
-- **eDuke3d** (Duke Nukem 3D)
-- **Diablo 1** (devilutionX) — working
+| Game | Engine |
+|---|---|
+| Descent | d1x-rebirth |
+| Diablo 1 | devilutionX |
+| Duke Nukem 3D | eDuke3d |
+| Quake | tyr-quake |
+| Super Mario 64 | ARM64 recomp |
+| Unreal Tournament | 469e ARM64 patch |
 
 ---
 
